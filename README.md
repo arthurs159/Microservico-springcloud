@@ -8,3 +8,9 @@
 
 Nessa aula me aprofundei em aprender mais sobre como o SpringBoot funciona e como utilizar o ElasticSearch.
 
+
+
+Obs: Projeto de aprofundamento para meus estudos em Java Spring Boot. :fire:
+
+
+
